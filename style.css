@@ -26,7 +26,7 @@ body{
     border: 1px solid hsl(0, 0%, 7%);
     box-shadow:10px 10px hsl(0, 0%, 7%);
     width: 23rem;
-    width: min(90vw, 375pc);
+    width: min(90vw, 375px);
     padding: 20px;
     border-radius: 25px;
     display: flex;
